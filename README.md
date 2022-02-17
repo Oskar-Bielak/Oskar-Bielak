@@ -7,7 +7,9 @@ Bardzo lubię wyzwania, jest wytrwały w projekcie i bardzo szybko się uczę no
 Jest to początek jeśli chodzi o moja prace przy programowaniu. 💞️
 
 Mozliwości Kontaktu: 📫
+
 Mail: oskar.bielak@mixbox.pl
+
 Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
 
 
@@ -21,5 +23,7 @@ I really like challenges. He is persistent in the project and I learn new things
 This is actually the beginning of my programming work. 💞️
 
 Contact: 📫
+
 Mail: oskar.bielak@mixbox.pl
+
 Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
