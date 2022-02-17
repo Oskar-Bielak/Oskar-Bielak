@@ -1,4 +1,5 @@
 PL:
+
 Hej, jestem Oskar👋
 Interesuję się programowaniem fulstack (front and backend), języki w których najlepiej się odnajduje to C# i PHP. 👀
 Pomimo tego na podstawowym poziomie rozumiem Jave, codziennie staram się pracować nad zawansowaniem wszystkich jeżyków.🌱
@@ -15,6 +16,7 @@ Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
 
 
 ENG:
+
 Hey, I'm Oskar 👋
 I am interested in fulstack (front and backend) programming. The languages that he is best at are C # and PHP. 👀
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
