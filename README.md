@@ -13,7 +13,7 @@ Mail: oskar.bielak@mixbox.pl
 
 Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
 
-
+Facebook: https://www.facebook.com/oskar.bielak.18/
 
 ENG:
 
@@ -29,3 +29,5 @@ Contact: 📫
 Mail: oskar.bielak@mixbox.pl
 
 Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
+
+Facebook: https://www.facebook.com/oskar.bielak.18/
