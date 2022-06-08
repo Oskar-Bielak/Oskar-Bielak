@@ -9,11 +9,11 @@ Jest to początek jeśli chodzi o moja prace przy programowaniu. 💞️
 
 Administrator strony: 
 
-1.http://inter-stal.eu/
+http://inter-stal.eu/
 
 Opiekun/Full-stack strony:
 
-1.https://www.beliving.pl/
+https://www.beliving.pl/
 
 Mozliwości Kontaktu: 📫
 
@@ -34,11 +34,11 @@ This is actually the beginning of my programming work. 💞️
 
 Administrator site:
 
-1.http: //inter-stal.eu/
+http://inter-stal.eu/
 
 Maintainer / Full-stack site:
 
-1.https: //www.beliving.pl/
+https://www.beliving.pl/
 
 Contact: 📫
 
