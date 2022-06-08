@@ -7,6 +7,12 @@ Ten Github skierowany jest do przyszłych pracodawców lub osób które będą c
 Bardzo lubię wyzwania, jest wytrwały w projekcie i bardzo szybko się uczę nowych rzeczy. 
 Jest to początek jeśli chodzi o moja prace przy programowaniu. 💞️
 
+Administrator strony: 
+1.http://inter-stal.eu/
+
+Opiekun/Full-stack strony:
+1.https://www.beliving.pl/
+
 Mozliwości Kontaktu: 📫
 
 Mail: oskar.bielak@mixbox.pl
@@ -23,6 +29,12 @@ Despite that, I understand Jave on a basic level. Every day I try to work on the
 This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
 I really like challenges. He is persistent in the project and I learn new things very quickly. 
 This is actually the beginning of my programming work. 💞️
+
+Administrator site:
+1.http: //inter-stal.eu/
+
+Maintainer / Full-stack site:
+1.https: //www.beliving.pl/
 
 Contact: 📫
 
