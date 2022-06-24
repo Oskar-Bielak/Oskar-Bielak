@@ -1,7 +1,7 @@
 PL:
 
 Hej, jestem Oskar👋
-Interesuję się programowaniem fulstack (front and backend), języki w których najlepiej się odnajduje to C# i PHP. 👀
+Interesuję się programowaniem fullstack (front and backend), języki w których najlepiej się odnajduje to C# i PHP. 👀
 Pomimo tego na podstawowym poziomie rozumiem Jave, codziennie staram się pracować nad zawansowaniem wszystkich języków.🌱
 Ten Github skierowany jest do przyszłych pracodawców lub osób które będą chciały współpracować ze mną, w przyszłosci chce współpracować przy wielkich projektach. 
 Bardzo lubię wyzwania, jest wytrwały w projekcie i bardzo szybko się uczę nowych rzeczy. 
@@ -26,7 +26,7 @@ Facebook: https://www.facebook.com/oskar.bielak.18/
 ENG:
 
 Hey, I'm Oskar 👋
-I am interested in fulstack (front and backend) programming. The languages that he is best at are C # and PHP. 👀
+I am interested in fullstack (front and backend) programming. The languages that he is best at are C # and PHP. 👀
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
 This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
 I really like challenges. He is persistent in the project and I learn new things very quickly. 
