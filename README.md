@@ -4,8 +4,8 @@ Hej, jestem Oskar👋
 Interesuję się programowaniem fullstack (front and backend), języki w których najlepiej się odnajduje to C# i PHP. 👀
 Pomimo tego na podstawowym poziomie rozumiem Jave, codziennie staram się pracować nad zawansowaniem wszystkich języków.🌱
 Ten Github skierowany jest do przyszłych pracodawców lub osób które będą chciały współpracować ze mną, w przyszłosci chce współpracować przy wielkich projektach. 
-Bardzo lubię wyzwania, jest wytrwały w projekcie i bardzo szybko się uczę nowych rzeczy. 
-Jest to początek jeśli chodzi o moja prace przy programowaniu. 💞️
+Bardzo lubię wyzwania, jestem wytrwały w projekcie i bardzo szybko się uczę nowych rzeczy. 
+Jest to początek jeśli chodzi o moja prace przy programowaniu. 💪
 
 Administrator strony: 
 
@@ -30,7 +30,7 @@ I am interested in fullstack (front and backend) programming. The languages that
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
 This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
 I really like challenges. He is persistent in the project and I learn new things very quickly. 
-This is actually the beginning of my programming work. 💞️
+This is actually the beginning of my programming work. 💪
 
 Administrator site:
 
