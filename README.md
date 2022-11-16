@@ -3,10 +3,10 @@ PL:
 
 <p align="center">
   <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Link to Facebook profile page" rel=”noreferrer” />
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Look me profile with Facebook" rel=”noreferrer” />
   </a>
   <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me mail" rel=”noreferrer” />
   </a>
   
 <p>W tych jezykach i narzedziach czuje sie dobrze:</p>
@@ -30,6 +30,16 @@ Facebook: https://www.facebook.com/oskar.bielak.18/
 
 ENG:
 <h1 align="center"> Hej, jestem Oskar 👋</h1>
+
+<p align="center">
+  <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Look me profile with Facebook" rel=”noreferrer” />
+  </a>
+  <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me mail" rel=”noreferrer” />
+  </a>
+  
+  
 I am  Full-stack and Backend Developer. 
 The languages that he is best at are C # and PHP. 👀
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
