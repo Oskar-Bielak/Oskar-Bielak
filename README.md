@@ -1,11 +1,6 @@
 PL:
 
 Hej, jestem Oskar👋
-Interesuję się programowaniem fullstack (front and backend), języki w których najlepiej się odnajduje to C# i PHP. 👀
-Pomimo tego na podstawowym poziomie rozumiem Jave, codziennie staram się pracować nad zawansowaniem wszystkich języków.🌱
-Ten Github skierowany jest do przyszłych pracodawców lub osób które będą chciały współpracować ze mną, w przyszłosci chce współpracować przy wielkich projektach. 
-Bardzo lubię wyzwania, jestem wytrwały w projekcie i bardzo szybko się uczę nowych rzeczy. 
-Jest to początek jeśli chodzi o moja prace przy programowaniu. 💪
 
 Administrator strony: 
 
@@ -22,7 +17,7 @@ Mail: oskar.bielak@mixbox.pl
 Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
 
 Facebook: https://www.facebook.com/oskar.bielak.18/
-
+### Języki i narzedzia:
 ENG:
 
 Hey, I'm Oskar 👋
