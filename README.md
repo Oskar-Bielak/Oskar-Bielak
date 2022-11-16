@@ -1,7 +1,7 @@
 <p align="center"><img src="https://flagcdn.com/80x60/gb.png"/></p>
 <h1 align="center"> Hey, I'm Oskar 👋</h1>
 <h4> I am  Full-stack and Backend Developer. </h4>
-<h5>I really like challenges. He is persistent in the project and I learn new things very quickly.
+<h5>I really like challenges. I am persistent in the project and I learn new things very quickly.
 Every day I try to work on the advancement of all languages.
 Wants in future to collaborate on big projects.
 This Github is aimed at future employers or people who will want to work with me.</h5>
