@@ -1,7 +1,6 @@
-![Ilość odwiedzin](https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge)
+<h1 align="center">Hej, jestem Oskar👋 / Hey, I'm Oskar 👋</h1>
 PL:
 
-Hej, jestem Oskar👋
 
 Administrator strony: 
 
