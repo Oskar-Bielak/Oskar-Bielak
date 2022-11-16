@@ -1,7 +1,17 @@
-<h1 align="center">Hej, jestem Oskar👋 / Hey, I'm Oskar 👋</h1>
 PL:
+<h1 align="center">Hej, jestem Oskar👋 / Hey, I'm Oskar 👋</h1>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/szymon-dudka/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
+  </a>
+  <a href="mailto:szymooneq@zohomail.eu" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
+  </a>
+  <a href="https://szymondudka.xyz/" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+</p>
 <p>W tych jezykach i narzedziach czuje sie dobrze:</p>
 
 Administrator strony: 
@@ -20,8 +30,9 @@ Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
 
 Facebook: https://www.facebook.com/oskar.bielak.18/
 ### I feel comfortable in these languages and tools:
-ENG:
 
+ENG:
+<h1 align="center"> Hey, I'm Oskar 👋</h1>
 I am  Full-stack and Backend Developer. 
 The languages that he is best at are C # and PHP. 👀
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
