@@ -28,7 +28,7 @@ This Github is aimed at future employers or people who will want to work with me
 
 
 <table class="table">
-<h4>Website:</h4>
+<h4>Websites:</h4>
   <thead>
     <tr>
       <th scope="col">Name</th>
@@ -124,7 +124,7 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 <table class="table">
-<h4>Website:</h4>
+<h4>Strony internetowe:</h4>
   <thead>
     <tr>
       <th scope="col">Nazwa</th>
