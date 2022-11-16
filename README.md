@@ -3,15 +3,12 @@ PL:
 
 <p align="center">
   <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Link to Facebook profile page" rel=”noreferrer” />
   </a>
-  <a href="mailto:szymooneq@zohomail.eu" target="_blank">
+  <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
   </a>
-  <a href="https://szymondudka.xyz/" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-</p>
+  
 <p>W tych jezykach i narzedziach czuje sie dobrze:</p>
 
 Administrator strony: 
