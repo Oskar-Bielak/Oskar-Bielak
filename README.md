@@ -1,15 +1,31 @@
 PL:
 <h1 align="center"> Hey, I'm Oskar 👋</h1>
+<h4> I am  Full-stack and Backend Developer. </h4>
+<h4> I feel comfortable in these languages and tools: </h4>
 
-<p align="center">
-  <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Look me profile with Facebook" rel=”noreferrer” />
-  </a>
-  <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me mail" rel=”noreferrer” />
-  </a>
-  
-<p>W tych jezykach i narzedziach czuje sie dobrze:</p>
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-239DFF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0074a3?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-712Cf9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+
+
+
+I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
+This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
+I really like challenges. He is persistent in the project and I learn new things very quickly. 
+This is actually the beginning of my programming work. 💪
 
 Administrator strony: 
 
@@ -19,18 +35,9 @@ Opiekun/Full-stack strony:
 
 https://www.beliving.pl/
 
-Mozliwości Kontaktu: 📫
 
-Mail: oskar.bielak@mixbox.pl
-
-Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
-
-Facebook: https://www.facebook.com/oskar.bielak.18/
-### I feel comfortable in these languages and tools:
-
-ENG:
-<h1 align="center"> Hej, jestem Oskar 👋</h1>
-
+<p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Oskar views repo"></p>
+<h1 align="center">  </h1>
 <p align="center">
   <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Look me profile with Facebook" rel=”noreferrer” />
@@ -38,7 +45,14 @@ ENG:
   <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me mail" rel=”noreferrer” />
   </a>
-  
+  <a href="oskarbielak.gihhub.io" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-a2821a?style=for-the-badge&logo=About.me&logoColor=white" alt="Me Portfolio" />
+	</a>
+</p>
+ENG:
+<h1 align="center"> Hej, jestem Oskar 👋</h1>
+<h4> Jestem programistą Full-Stack i Backend. </h4>
+<h4> Dobrze się czuję w tych językach i narzędziach: </h4>
   
 I am  Full-stack and Backend Developer. 
 The languages that he is best at are C # and PHP. 👀
@@ -55,10 +69,16 @@ Maintainer / Full-stack site:
 
 https://www.beliving.pl/
 
-Contact: 📫
-
-Mail: oskar.bielak@mixbox.pl
-
-Linkedin: https://www.linkedin.com/in/oskar-bielak-6a51851b2
-
-Facebook: https://www.facebook.com/oskar.bielak.18/
+<p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Osoby ktore obejrzały profil"></p>
+<h1 align="center">  </h1>
+<p align="center">
+  <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Zobacz mój profil na Facebook" rel=”noreferrer” />
+  </a>
+  <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Wyślij mi wiadomość" rel=”noreferrer” />
+  </a>
+  <a href="oskarbielak.gihhub.io" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-a2821a?style=for-the-badge&logo=About.me&logoColor=white" alt="Moje portfolio" />
+	</a>
+</p>
