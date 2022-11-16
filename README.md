@@ -136,12 +136,12 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
     <tr>
       <th scope="row">Beliving.pl</th>
       <td>Jestem fullstack dla tej strony. Dokonuję wszelkich niezbędnych zmian w zakresie frontonu i backendu. Backend serwisu oparty jest o język PHP (framework CakePHP) oraz bazę danych MySQL. Frontend serwisu oparty jest o Bootstrap, Less, JQuery. W tym projekcie poprawiam błędy tych, którzy stworzyli tę stronę.</td>     
-	    <td><a href="https://www.beliving.pl/" target="_blank">Check</a></td>
+	    <td><a href="https://www.beliving.pl/" target="_blank">Sprawdź</a></td>
     </tr>
     <tr>
       <th scope="row">Interstal.eu</th>
       <td>Jestem fullstack dla tej strony. Dokonuję wszelkich niezbędnych zmian w zakresie frontonu i backendu. Stworzyłem tę stronę. Backend serwisu oparty jest o język PHP (WordPress) oraz bazę danych MySQL. Frontend serwisu oparty jest o Bootstrap, JQuery. Stworzyłem tę stronę.</td>      
-      <td><a href="http://inter-stal.eu/" target="_blank">Check</a></td>
+      <td><a href="http://inter-stal.eu/" target="_blank">Sprawdź</a></td>
     </tr>
   </tbody>
 </table>
