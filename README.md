@@ -33,7 +33,7 @@ This Github is aimed at future employers or people who will want to work with me
     <tr>
       <th scope="col">Name</th>
       <th scope="col">Description</th>
-      <th scope="col">Source</th>
+      <th scope="col">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -50,12 +50,13 @@ This Github is aimed at future employers or people who will want to work with me
   </tbody>
 </table>
 <table class="table">
-<h4>Website:</h4>
+<h4>Projects:</h4>
   <thead>
     <tr>
       <th scope="col">Name</th>
       <th scope="col">Description</th>
-      <th scope="col">Side</th>
+      <th scope="col"> Source </th>
+      <th scope="col"> Deploy </th>
     </tr>
   </thead>
   <tbody>
@@ -80,13 +81,7 @@ This Github is aimed at future employers or people who will want to work with me
 
 
 
-Administrator strony: 
 
-http://inter-stal.eu/
-
-Opiekun/Full-stack strony:
-
-https://www.beliving.pl/
 
 <p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Oskar views repo"></p>
 <h1 align="center">  </h1>
@@ -128,7 +123,28 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
-
+<table class="table">
+<h4>Website:</h4>
+  <thead>
+    <tr>
+      <th scope="col">Nazwa</th>
+      <th scope="col">Opis</th>
+      <th scope="col">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Beliving.pl</th>
+      <td>Jestem fullstack dla tej strony. Dokonuję wszelkich niezbędnych zmian w zakresie frontonu i backendu. Backend serwisu oparty jest o język PHP (framework CakePHP) oraz bazę danych MySQL. Frontend serwisu oparty jest o Bootstrap, Less, JQuery. W tym projekcie poprawiam błędy tych, którzy stworzyli tę stronę.</td>     
+	    <td><a href="https://www.beliving.pl/" target="_blank">Check</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Interstal.eu</th>
+      <td>Jestem fullstack dla tej strony. Dokonuję wszelkich niezbędnych zmian w zakresie frontonu i backendu. Stworzyłem tę stronę. Backend serwisu oparty jest o język PHP (WordPress) oraz bazę danych MySQL. Frontend serwisu oparty jest o Bootstrap, JQuery. Stworzyłem tę stronę.</td>      
+      <td><a href="http://inter-stal.eu/" target="_blank">Check</a></td>
+    </tr>
+  </tbody>
+</table>
 <h4>Projekty:</h4>
 <table class="table" align="center">
   <thead>
@@ -161,14 +177,6 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
   </tbody>
 </table>
 
-
-Administrator site:
-
-http://inter-stal.eu/
-
-Maintainer / Full-stack site:
-
-https://www.beliving.pl/
 
 <p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Osoby ktore obejrzały profil"></p>
 <h1 align="center">  </h1>
