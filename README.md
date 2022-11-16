@@ -2,7 +2,7 @@
 PL:
 
 
-<h2>W tych jezykach i narzedziach czuje sie dobrze:</h2>
+<p>W tych jezykach i narzedziach czuje sie dobrze:</p>
 
 Administrator strony: 
 
