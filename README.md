@@ -1,9 +1,9 @@
 PL:
-<h1 align="center">Hej, jestem Oskar👋 / Hey, I'm Oskar 👋</h1>
+<h1 align="center"> Hey, I'm Oskar 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/szymon-dudka/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
+  <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
   </a>
   <a href="mailto:szymooneq@zohomail.eu" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
@@ -32,7 +32,7 @@ Facebook: https://www.facebook.com/oskar.bielak.18/
 ### I feel comfortable in these languages and tools:
 
 ENG:
-<h1 align="center"> Hey, I'm Oskar 👋</h1>
+<h1 align="center"> Hej, jestem Oskar 👋</h1>
 I am  Full-stack and Backend Developer. 
 The languages that he is best at are C # and PHP. 👀
 Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
