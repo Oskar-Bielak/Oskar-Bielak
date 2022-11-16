@@ -39,8 +39,8 @@ This Github is aimed at future employers or people who will want to work with me
   <tbody>
     <tr>
       <th scope="row">Beliving.pl</th>
-      <td>Beliving.pl</td>     
-      <td>@mdo</td>
+      <td>I am a fullstack for this site. I make all the necessary changes in terms of the front and backend. The backend of the website is based on the PHP language (CakePHP framework) and the MySQL database. The frontend of the website is based on Bootstrap, Less, JQuery.</td>     
+      <td><a href="https://www.beliving.pl/" target="_blank">Check</td>
     </tr>
     <tr>
       <th scope="row">2</th>
