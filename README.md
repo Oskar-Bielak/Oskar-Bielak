@@ -25,6 +25,62 @@ This Github is aimed at future employers or people who will want to work with me
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
+
+
+<table class="table">
+<h4>Website:</h4>
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Beliving.pl</th>
+      <td>Beliving.pl</td>     
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>      
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
+<table class="table">
+<h4>Website:</h4>
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Beliving.pl</th>
+      <td>Beliving.pl</td>     
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>      
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
 <h4>Projects:</h4>
 
 
@@ -36,7 +92,6 @@ http://inter-stal.eu/
 Opiekun/Full-stack strony:
 
 https://www.beliving.pl/
-
 
 <p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Oskar views repo"></p>
 <h1 align="center">  </h1>
@@ -80,6 +135,36 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 <h4>Projekty:</h4>
+<table class="table" align="center">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
 
 
 Administrator site:
