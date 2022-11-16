@@ -1,6 +1,10 @@
 <p align="center"><img src="https://flagcdn.com/80x60/gb.png"/></p>
 <h1 align="center"> Hey, I'm Oskar 👋</h1>
 <h4> I am  Full-stack and Backend Developer. </h4>
+<h5>I really like challenges. He is persistent in the project and I learn new things very quickly.
+Every day I try to work on the advancement of all languages.
+Wants in future to collaborate on big projects.
+This Github is aimed at future employers or people who will want to work with me.</h5>
 <h4> I feel comfortable in these languages and tools: </h4>
 
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,12 +25,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
+<h4>Projects:</h4>
 
 
-I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
-This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
-I really like challenges. He is persistent in the project and I learn new things very quickly. 
-This is actually the beginning of my programming work. 💪
 
 Administrator strony: 
 
@@ -53,7 +54,11 @@ https://www.beliving.pl/
 <h1 align="center">  </h1>
 <p align="center"><img src="https://flagcdn.com/80x60/pl.png"/></p>
 <h1 align="center"> Hej, jestem Oskar 👋</h1>
-<h4> Jestem programistą Full-Stack i Backend. </h4>
+<h4> Jestem programistą Full-Stack i Backend. Każdego dnia staram się pracować nad rozwojem wszystkich języków, </h4>
+<h5>Naprawdę lubię wyzwania. Jest wytrwały w projekcie i bardzo szybko uczę się nowych rzeczy.
+Każdego dnia staram się pracować nad rozwojem wszystkich języków.
+Chce w przyszłości współpracować przy dużych projektach.
+Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą chciały ze mną pracować.</h5>
 <h4> Dobrze się czuję w tych językach i narzędziach: </h4>
 
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
@@ -73,18 +78,9 @@ https://www.beliving.pl/
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
- 
-The languages that he is best at are C # and PHP. 👀
-Despite that, I understand Jave on a basic level. Every day I try to work on the advancement of all languages. 🌱
-This Github is aimed at future employers or people who will want to work with me. Wants in future to collaborate on big projects.
-I really like challenges. He is persistent in the project and I learn new things very quickly. 
-This is actually the beginning of my programming work. 💪
-<h4>Projects</h4>
-| Name | Description | Source | Deploy |
-|:----:|:------------|:----:|:-----------:|
-| Personal Portfolio | My own portfolio page. Responsive website without the use of any CSS framework. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
-| Tastebite Recipes App | Application with the ability to add and manage recipes. | [GitHub](https://github.com/szymooneq/Tastebite-Recipes-App) | [Vercel](https://tastebite-app-sd.vercel.app/) |
-| Memory Master | Memory Master is a game where you have to match all images to win. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
+
+<h4>Projekty:</h4>
+
 
 Administrator site:
 
