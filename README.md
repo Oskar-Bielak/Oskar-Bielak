@@ -39,18 +39,13 @@ This Github is aimed at future employers or people who will want to work with me
   <tbody>
     <tr>
       <th scope="row">Beliving.pl</th>
-      <td>I am a fullstack for this site. I make all the necessary changes in terms of the front and backend. The backend of the website is based on the PHP language (CakePHP framework) and the MySQL database. The frontend of the website is based on Bootstrap, Less, JQuery.</td>     
-      <td><a href="https://www.beliving.pl/" target="_blank">Check</td>
+      <td>I am a fullstack for this site. I make all the necessary changes in terms of the front and backend. The backend of the website is based on the PHP language (CakePHP framework) and the MySQL database. The frontend of the website is based on Bootstrap, Less, JQuery. In this project I am correcting the bugs of those who created this page</td>     
+	    <td><a href="https://www.beliving.pl/" target="_blank">Check</a></td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>      
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>@twitter</td>
+      <th scope="row">Interstal.eu</th>
+      <td>I am a fullstack for this site. I make all the necessary changes in terms of the front and backend. I created this page.The backend of the website is based on the PHP language (WordPress) and the MySQL database.The frontend of the website is based on Bootstrap, JQuery. I created this page</td>      
+      <td><a href="http://inter-stal.eu/" target="_blank">Check</a></td>
     </tr>
   </tbody>
 </table>
@@ -60,7 +55,7 @@ This Github is aimed at future employers or people who will want to work with me
     <tr>
       <th scope="col">Name</th>
       <th scope="col">Description</th>
-      <th scope="col">Source</th>
+      <th scope="col">Side</th>
     </tr>
   </thead>
   <tbody>
