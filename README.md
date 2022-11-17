@@ -61,23 +61,14 @@ This Github is aimed at future employers or people who will want to work with me
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Beliving.pl</th>
-      <td>Beliving.pl</td>     
-      <td>@mdo</td>
+      <th scope="row">Strona Restauracja</th>
+      <td>A mini web application for ordering food written in ASP.NET CORE technology (C #, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)</td>     
+      <td><a href="https://github.com/Oskar-Bielak/Back-end-and-Full-Stack/tree/master/C%23/Strona%20Restauracja" target="_blank">Check code</a></td>
+      <td><a href="" target="_blank">Check application</a></td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>      
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>@twitter</td>
-    </tr>
+   
   </tbody>
 </table>
-<h4>Projects:</h4>
 
 
 
@@ -145,35 +136,24 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
     </tr>
   </tbody>
 </table>
+<table class="table">
 <h4>Projekty:</h4>
-<table class="table" align="center">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Nazwa</th>
+      <th scope="col">Opis</th>
+      <th scope="col"> Źródło </th>
+      <th scope="col"> Link do Aplikacji </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">Strona Restauracja</th>
+      <td>Mini aplikacja webowa do zamawiania jedzenia, napisana w technologii ASP.NET CORE (C#, SQL, T-SQL, RestAPI, WebAPI, Entity Framework)</td>     
+      <td><a href="https://github.com/Oskar-Bielak/Back-end-and-Full-Stack/tree/master/C%23/Strona%20Restauracja" target="_blank">Sprawdź Code</a></td>
+      <td><a href="" target="_blank">Sprawdź Aplikacje</a></td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
+   
   </tbody>
 </table>
 
