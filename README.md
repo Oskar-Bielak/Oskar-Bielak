@@ -83,7 +83,7 @@ This Github is aimed at future employers or people who will want to work with me
   <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me mail" rel=”noreferrer” />
   </a>
-  <a href="oskarbielak.gihhub.io" target="_blank">
+  <a href="https://oskar-bielak.github.io/oskarbielak.github.io" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-a2821a?style=for-the-badge&logo=About.me&logoColor=white" alt="Me Portfolio" />
 	</a>
 </p>
@@ -167,7 +167,7 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
   <a href="mailto:oskar.bielak@mixbox.pl" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Wyślij mi wiadomość" rel=”noreferrer” />
   </a>
-  <a href="oskarbielak.gihhub.io" target="_blank">
+  <a href="https://oskar-bielak.github.io/oskarbielak.github.io" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-a2821a?style=for-the-badge&logo=About.me&logoColor=white" alt="Moje portfolio" />
 	</a>
 </p>
