@@ -80,7 +80,7 @@ This Github is aimed at future employers or people who will want to work with me
 
 
 
-<p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Oskar views repo"></p>
+
 <h1 align="center">  </h1>
 <p align="center">
   <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
@@ -171,7 +171,7 @@ Ten Github jest skierowany do przyszłych pracodawców lub osób, które będą 
 </table>
 
 
-<p align="center"><img src="https://img.shields.io/github/watchers/Oskar-Bielak/Oskar-Bielak?style=for-the-badge" alt="Osoby ktore obejrzały profil"></p>
+
 <h1 align="center">  </h1>
 <p align="center">
   <a href="https://www.facebook.com/oskar.bielak.18/" target="_blank">
