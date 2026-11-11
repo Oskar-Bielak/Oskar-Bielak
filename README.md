@@ -88,7 +88,7 @@ More details: **[oskar-bielak.github.io/portfolio](https://oskar-bielak.github.i
 <h3 align="center">Programista C# i SQL · Kierownik działu enova365</h3>
 
 <p align="center">
-  <a href="https://oskar-bielak.github.io/portfolio/index-pl.html"><img src="https://img.shields.io/badge/Portfolio-00C2A8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://oskar-bielak.github.io/portfolio/pl/"><img src="https://img.shields.io/badge/Portfolio-00C2A8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://oskar-bielak.github.io/portfolio/cv/Oskar-Bielak-CV-PL.pdf"><img src="https://img.shields.io/badge/Pobierz%20CV-0A0E14?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Pobierz CV" /></a>
   <a href="https://www.linkedin.com/in/oskar-bielak-6a51851b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:oskarbielak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -137,4 +137,4 @@ Zasady, których się trzymam: **OOP · SOLID · KISS · DRY · regularne code r
 | **Loop-Food** | Aplikacja internetowa do zamawiania jedzenia, zarządzania daniami restauracji, dostawcami i dostawami | PHP, HTML5, CSS, Bootstrap, JavaScript, MySQL, PDO, MySQLi | [Kod](https://github.com/Oskar-Bielak/LoopFoodPHP) |
 | **Strona Restauracja** | Mini REST API do zamawiania jedzenia napisane w ASP.NET Core (sam backend, bez interfejsu graficznego) | C#, ASP.NET Core, Web API, Entity Framework, T-SQL, NLog | [Kod](https://github.com/Oskar-Bielak/Back-end-and-Full-Stack/tree/master/C%23/Strona%20Restauracja) |
 
-Więcej szczegółów: **[oskar-bielak.github.io/portfolio](https://oskar-bielak.github.io/portfolio/index-pl.html)**
+Więcej szczegółów: **[oskar-bielak.github.io/portfolio](https://oskar-bielak.github.io/portfolio/pl/)**
